@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo 2 Crear el area de u
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo 4 Invertir palabra", "..\Modulo 4 Invertir palabra\Modulo 4 Invertir palabra\Modulo 4 Invertir palabra.csproj", "{AED8829A-6E82-4297-9E43-B72F9F2416A1}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modulo 6-Ahorcado", "..\Modulo 6-Ahorcado\Modulo 6-Ahorcado\Modulo 6-Ahorcado.csproj", "{6BA759C4-9A59-4C11-9893-11085A9C4A32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AED8829A-6E82-4297-9E43-B72F9F2416A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AED8829A-6E82-4297-9E43-B72F9F2416A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AED8829A-6E82-4297-9E43-B72F9F2416A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA759C4-9A59-4C11-9893-11085A9C4A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA759C4-9A59-4C11-9893-11085A9C4A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA759C4-9A59-4C11-9893-11085A9C4A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA759C4-9A59-4C11-9893-11085A9C4A32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
